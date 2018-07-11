@@ -1,10 +1,17 @@
-<body>
+body
 {
 background-color: Black;
 font-family: verdana
 }
-<h1>
+p
 {
-font-family: arial
-font-size: 50px;
+color: rgb(255, 255, 255);
+font-family: arial;
+font-size:40px;
+}
+h1
+{
+color: rgb(244, 248, 249);
+font-family: arial;
+font-size: 70px;
 }
